@@ -1,0 +1,2 @@
+# Singleton : eleji este patron porque en el ejercicio nos pedia hacer un descunto en el proyecto el cual era instancia global el cual la programos en la clase configuracion sistema 
+## Factory method : asi mismo alejimos este patro ya que en el problema nos da exacatamete un tema pero dos subclases el cual aqui no pudimos dar cuenta que el factory method era el indicado para este caso , asi mismo en pedido defenimos ahi ya como aplicamos el descuento para las subclases que son "pedido en linea " y " pedido presencial"
